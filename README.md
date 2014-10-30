@@ -7,8 +7,7 @@ For _**feedback**_ and _**suggestions**_ please use this project's [Issues](http
 ============
 
 > IMPORTANT: At the time or writing, the project represents a **_prototype_** with the goal of demonstrating 
-the validity of the approach described in [SPARK-3561](https://issues.apache.org/jira/browse/SPARK-3561) while this is still _**work in progress**_.
-To get an idea of currently supported functionality please refer to 
+the validity of the approach described in [SPARK-3561](https://issues.apache.org/jira/browse/SPARK-3561). While it is still _**work in progress**_ you can get an idea of currently supported functionality by checking out 
 [APIDemoTests](https://github.com/hortonworks/spark-native-yarn/blob/master/src/test/scala/org/apache/spark/tez/APIDemoTests.scala) as well as
 [Samples](https://github.com/hortonworks/spark-native-yarn-samples) project. 
 
