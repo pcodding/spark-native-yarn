@@ -26,7 +26,7 @@ Aside from enabling SPARK DAG execution to run on [Apache Tez](http://tez.apache
  
 At the moment of writing, _**spark-native-yarn**_ is dependent on modifications to SPARK code described in [SPARK-3561](https://issues.apache.org/jira/browse/SPARK-3561). 
 This means that to use it, one must have a custom build of Spark which incorporates pending [GitHub Pull Request](https://github.com/apache/spark/pull/2849).
-You can build your own by following instructions below or you can download a pre-built distribution from [here](jjjj).
+You can build your own by following instructions below or you can download a pre-built distribution from [here](http://public-repo-1.hortonworks.com/HDP-LABS/Projects/spark/1.1.0/spark-1.1.0.2.1.5.0-702-bin-2.4.0.2.1.5.0-695.tgz).
 
 > IMPORTANT: If you opt out for a pre-build distribution keep in mind that it is based on Spark 1.1 release, which means you have to use a compatible **_spark-native-yarn_**
 version [branch 1.1.1](https://github.com/hortonworks/spark-native-yarn/tree/1.1.1).
