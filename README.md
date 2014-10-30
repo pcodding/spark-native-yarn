@@ -11,6 +11,8 @@ To get an idea of currently supported functionality please refer to
 
 ==
 
+For _**feedback**_ and _**suggestions**_ please use this project's [Issues](https://github.com/hortonworks/spark-native-yarn/issues) feature.
+
 **_spark-native-yarn_** project represents an extension to [Apache Spark](https://spark.apache.org/) which enables DAGs assembled using SPARK API to run on [Apache Tez](http://tez.apache.org/),
 thus allowing one to benefit from native features of Tez, especially related to large scale Batch/ETL applications.
 
