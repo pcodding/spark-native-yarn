@@ -42,6 +42,9 @@ Below are the prerequisites and instructions on how to proceed.
 > IMPORTANT: Please follow the prerequisites described below and then continue to [**_Getting Started_**](https://github.com/hortonworks/spark-native-yarn/wiki/Home) guide.
 
 #### Checkout and Build SPARK-3561
+
+> NOTE: Latest rebase with Spark's trunk October 30, 2014
+
 ```
 $> git clone https://github.com/olegz/spark-1.git
 $> cd spark-1
